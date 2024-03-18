@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/nnet/kerasimporter_glnxa64</name>
+      <componentFileName>softwaresupportpkgs/nnet/kerasimporter_glnxa64_1691806701.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>408310</size>
+      <uncompressedBytes>1248936</uncompressedBytes>
+      <version>1691806701</version>
+    </component>
+    <component>
+      <name>3p/leveldb_glnxa64</name>
+      <componentFileName>3p/leveldb_glnxa64_1690923456.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>199187</size>
+      <uncompressedBytes>515508</uncompressedBytes>
+      <version>1690923456</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>glnxa64</platform>
+  <productBaseCode>KERASIMPORTER</productBaseCode>
+  <productName>Deep Learning Toolbox Converter for TensorFlow models</productName>
+  <productNumber>2173</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/openh264.instrset_win64</name>
+      <componentFileName>3p/openh264.instrset_win64_1701461408.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>1</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>821</size>
+      <uncompressedBytes>2186</uncompressedBytes>
+      <version>1701461408</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/ipcamera_win64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/ipcamera_win64_1691027667.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>295396</size>
+      <uncompressedBytes>803840</uncompressedBytes>
+      <version>1691027667</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/camera_win64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/camera_win64_1691026367.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>94682</size>
+      <uncompressedBytes>274944</uncompressedBytes>
+      <version>1691026367</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/ipcamera_ex_doc_images_win64</name>
+      <componentFileName>buy/doc/hsp/ipcamera_ex_doc_images_win64_1701453258.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>718627</size>
+      <uncompressedBytes>718122</uncompressedBytes>
+      <version>1701453258</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>CISCO</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>ML_IP_CAMERAS</productBaseCode>
+  <productName>MATLAB Support Package for IP Cameras</productName>
+  <productNumber>2127</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

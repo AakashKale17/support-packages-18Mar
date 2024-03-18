@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <productBaseCode>NN</productBaseCode>
+      <productName>Deep Learning Toolbox</productName>
+      <productNumber>12</productNumber>
+      <productVersion>23.2</productVersion>
+      <releaseDescription>R2023b</releaseDescription>
+      <releaseFamily>R2023b</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <componentFileName>hardwaresupportpkgs/licenses/asla_license_common_1690923756.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>5351</size>
+      <uncompressedBytes>14057</uncompressedBytes>
+      <version>1690923756</version>
+    </component>
+    <component>
+      <name>softwaresupportpkgs/nnet/kerasimporter_common</name>
+      <componentFileName>softwaresupportpkgs/nnet/kerasimporter_common_1690956712.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>4060772</size>
+      <uncompressedBytes>5150331</uncompressedBytes>
+      <version>1690956712</version>
+    </component>
+    <component>
+      <name>nnet_cnn_kerasimporter_resources_common</name>
+      <componentFileName>nnet_cnn_kerasimporter_resources_common_1690923761.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>8484</size>
+      <uncompressedBytes>36701</uncompressedBytes>
+      <version>1690923761</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maca64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>KERASIMPORTER</productBaseCode>
+  <productName>Deep Learning Toolbox Converter for TensorFlow models</productName>
+  <productNumber>2173</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+  <requiredProducts />
+</productData>

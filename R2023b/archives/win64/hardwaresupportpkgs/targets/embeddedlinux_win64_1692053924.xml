@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/targets/embeddedlinux</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/targets/embeddedlinux_win64_1692053924.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/targets/embeddedlinux_win64</componentName>
+    <componentVersion>1692053924</componentVersion>
+    <contentType>win64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023b</releaseFamily>
+    <size>160186</size>
+    <type />
+    <uncompressedBytes>372375</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/matlab/webcam_maca64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/webcam_maca64_1692234359.zip</componentFileName>
+      <contentType>maca64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maca64</platform>
+      </platformList>
+      <size>186907</size>
+      <uncompressedBytes>922200</uncompressedBytes>
+      <version>1692234359</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/usbwebcams_ex_doc_images_maca64</name>
+      <componentFileName>buy/doc/hsp/usbwebcams_ex_doc_images_maca64_1692829513.zip</componentFileName>
+      <contentType>maca64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maca64</platform>
+      </platformList>
+      <size>1793905</size>
+      <uncompressedBytes>1793483</uncompressedBytes>
+      <version>1692829513</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maca64</platform>
+  <productBaseCode>USBWEBCAM</productBaseCode>
+  <productName>MATLAB Support Package for USB Webcams</productName>
+  <productNumber>2055</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/openh264.instrset_glnxa64</name>
+      <componentFileName>3p/openh264.instrset_glnxa64_1701457810.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>1</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>808</size>
+      <uncompressedBytes>1797</uncompressedBytes>
+      <version>1701457810</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/ipcamera_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/ipcamera_glnxa64_1697657701.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>229977</size>
+      <uncompressedBytes>658832</uncompressedBytes>
+      <version>1697657701</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/camera_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/camera_glnxa64_1690946568.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>77317</size>
+      <uncompressedBytes>246128</uncompressedBytes>
+      <version>1690946568</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/ipcamera_ex_doc_images_glnxa64</name>
+      <componentFileName>buy/doc/hsp/ipcamera_ex_doc_images_glnxa64_1701453258.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>718643</size>
+      <uncompressedBytes>718122</uncompressedBytes>
+      <version>1701453258</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>CISCO</licenseAgreementType>
+  <platform>glnxa64</platform>
+  <productBaseCode>ML_IP_CAMERAS</productBaseCode>
+  <productName>MATLAB Support Package for IP Cameras</productName>
+  <productNumber>2127</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

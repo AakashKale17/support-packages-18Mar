@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/dlcoder_base/dl_tensorflow_lite_win64</name>
+      <componentFileName>softwaresupportpkgs/dlcoder_base/dl_tensorflow_lite_win64_1691055859.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>56775</size>
+      <uncompressedBytes>131072</uncompressedBytes>
+      <version>1691055859</version>
+    </component>
+    <component>
+      <name>3p/tflite_win64</name>
+      <componentFileName>3p/tflite_win64_1690932000.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>5016001</size>
+      <uncompressedBytes>75800309</uncompressedBytes>
+      <version>1690932000</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>DL_TENSORFLOW_LITE</productBaseCode>
+  <productName>Deep Learning Toolbox Interface for TensorFlow Lite</productName>
+  <productNumber>2257</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

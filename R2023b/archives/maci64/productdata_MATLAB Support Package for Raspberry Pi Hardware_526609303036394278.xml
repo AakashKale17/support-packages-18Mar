@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>aps_pubsub_client_cpp/pubsub_maci64</name>
+      <componentFileName>aps_pubsub_client_cpp/pubsub_maci64_1692840277.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>396575</size>
+      <uncompressedBytes>1248888</uncompressedBytes>
+      <version>1692840277</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/raspi_maci64</name>
+      <componentFileName>hardwaresupportpkgs/targets/raspi_maci64_1691090452.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>129412</size>
+      <uncompressedBytes>327280</uncompressedBytes>
+      <version>1691090452</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_maci64</name>
+      <componentFileName>hardwaresupportpkgs/targets/shared_linuxservices_maci64_1692057544.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>672830</size>
+      <uncompressedBytes>2749753</uncompressedBytes>
+      <version>1692057544</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/raspberrypiio_ex_doc_images_maci64</name>
+      <componentFileName>buy/doc/hsp/raspberrypiio_ex_doc_images_maci64_1692829494.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>5108536</size>
+      <uncompressedBytes>5098183</uncompressedBytes>
+      <version>1692829494</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_maci64</name>
+      <componentFileName>hardwaresupportpkgs/targets/embeddedlinux_maci64_1692064358.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>100545</size>
+      <uncompressedBytes>399029</uncompressedBytes>
+      <version>1692064358</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maci64</platform>
+  <productBaseCode>RASPPIIO</productBaseCode>
+  <productName>MATLAB Support Package for Raspberry Pi Hardware</productName>
+  <productNumber>2026</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn />
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>GPU_DEEPLEARNING_LIB</productBaseCode>
+  <productName>GPU Coder Interface for Deep Learning Libraries</productName>
+  <productNumber>2191</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

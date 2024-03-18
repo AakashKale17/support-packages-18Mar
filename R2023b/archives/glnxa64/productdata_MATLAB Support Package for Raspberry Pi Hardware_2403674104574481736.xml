@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>aps_pubsub_client_cpp/pubsub_glnxa64</name>
+      <componentFileName>aps_pubsub_client_cpp/pubsub_glnxa64_1690927871.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>470332</size>
+      <uncompressedBytes>1393664</uncompressedBytes>
+      <version>1690927871</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/raspi_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/targets/raspi_glnxa64_1690975584.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>318840</size>
+      <uncompressedBytes>819751</uncompressedBytes>
+      <version>1690975584</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/targets/shared_linuxservices_glnxa64_1690971989.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>61841</size>
+      <uncompressedBytes>185304</uncompressedBytes>
+      <version>1690971989</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/raspberrypiio_ex_doc_images_glnxa64</name>
+      <componentFileName>buy/doc/hsp/raspberrypiio_ex_doc_images_glnxa64_1692829494.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>5114260</size>
+      <uncompressedBytes>5104877</uncompressedBytes>
+      <version>1692829494</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/targets/embeddedlinux_glnxa64_1692879630.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>103316</size>
+      <uncompressedBytes>242543</uncompressedBytes>
+      <version>1692879630</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>glnxa64</platform>
+  <productBaseCode>RASPPIIO</productBaseCode>
+  <productName>MATLAB Support Package for Raspberry Pi Hardware</productName>
+  <productNumber>2026</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

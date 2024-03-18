@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>buy/doc/hsp/arduinoio_doc_en</componentBaseName>
+    <componentFileName>buy/doc/hsp/arduinoio_doc_en_common_1701453217.zip</componentFileName>
+    <componentName>buy/doc/hsp/arduinoio_doc_en_common</componentName>
+    <componentVersion>1701453217</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>1</doc>
+    <doc_build>1</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>899</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023b</releaseFamily>
+    <size>8162787</size>
+    <type />
+    <uncompressedBytes>21152108</uncompressedBytes>
+  </component>
+</componentData>

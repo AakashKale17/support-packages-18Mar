@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/matlab/webcam_glnxa64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/webcam_glnxa64_1692230042.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>338955</size>
+      <uncompressedBytes>1110632</uncompressedBytes>
+      <version>1692230042</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/usbwebcams_ex_doc_images_glnxa64</name>
+      <componentFileName>buy/doc/hsp/usbwebcams_ex_doc_images_glnxa64_1692829513.zip</componentFileName>
+      <contentType>glnxa64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+      </platformList>
+      <size>1792593</size>
+      <uncompressedBytes>1792141</uncompressedBytes>
+      <version>1692829513</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>glnxa64</platform>
+  <productBaseCode>USBWEBCAM</productBaseCode>
+  <productName>MATLAB Support Package for USB Webcams</productName>
+  <productNumber>2055</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>buy/doc/hsp/arduinoio_ex_doc_images</componentBaseName>
+    <componentFileName>buy/doc/hsp/arduinoio_ex_doc_images_glnxa64_1701453219.zip</componentFileName>
+    <componentName>buy/doc/hsp/arduinoio_ex_doc_images_glnxa64</componentName>
+    <componentVersion>1701453219</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>1</doc>
+    <doc_build>1</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>91</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023b</releaseFamily>
+    <size>5168256</size>
+    <type />
+    <uncompressedBytes>5206654</uncompressedBytes>
+  </component>
+</componentData>

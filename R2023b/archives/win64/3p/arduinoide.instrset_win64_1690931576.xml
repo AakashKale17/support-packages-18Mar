@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/arduinoide.instrset</componentBaseName>
+    <componentFileName>3p/arduinoide.instrset_win64_1690931576.zip</componentFileName>
+    <componentName>3p/arduinoide.instrset_win64</componentName>
+    <componentVersion>1690931576</componentVersion>
+    <contentType>win64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>1</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023b</releaseFamily>
+    <size>684</size>
+    <type />
+    <uncompressedBytes>907</uncompressedBytes>
+  </component>
+</componentData>

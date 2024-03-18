@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/nnet/kerasimporter_maci64</name>
+      <componentFileName>softwaresupportpkgs/nnet/kerasimporter_maci64_1691835717.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>374702</size>
+      <uncompressedBytes>1315264</uncompressedBytes>
+      <version>1691835717</version>
+    </component>
+    <component>
+      <name>3p/leveldb_maci64</name>
+      <componentFileName>3p/leveldb_maci64_1690924089.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>156677</size>
+      <uncompressedBytes>415081</uncompressedBytes>
+      <version>1690924089</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maci64</platform>
+  <productBaseCode>KERASIMPORTER</productBaseCode>
+  <productName>Deep Learning Toolbox Converter for TensorFlow models</productName>
+  <productNumber>2173</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

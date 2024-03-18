@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/nnet/kerasimporter_win64</name>
+      <componentFileName>softwaresupportpkgs/nnet/kerasimporter_win64_1691038022.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>552328</size>
+      <uncompressedBytes>1685504</uncompressedBytes>
+      <version>1691038022</version>
+    </component>
+    <component>
+      <name>3p/leveldb_win64</name>
+      <componentFileName>3p/leveldb_win64_1690931620.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>165570</size>
+      <uncompressedBytes>367104</uncompressedBytes>
+      <version>1690931620</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>KERASIMPORTER</productBaseCode>
+  <productName>Deep Learning Toolbox Converter for TensorFlow models</productName>
+  <productNumber>2173</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

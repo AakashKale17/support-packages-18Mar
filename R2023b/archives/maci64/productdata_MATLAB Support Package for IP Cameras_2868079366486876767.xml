@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/openh264.instrset_maci64</name>
+      <componentFileName>3p/openh264.instrset_maci64_1701458599.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>1</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>808</size>
+      <uncompressedBytes>1803</uncompressedBytes>
+      <version>1701458599</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/ipcamera_maci64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/ipcamera_maci64_1697663233.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>207001</size>
+      <uncompressedBytes>712368</uncompressedBytes>
+      <version>1697663233</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/camera_maci64</name>
+      <componentFileName>hardwaresupportpkgs/matlab/camera_maci64_1691816216.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>57505</size>
+      <uncompressedBytes>243784</uncompressedBytes>
+      <version>1691816216</version>
+    </component>
+    <component>
+      <name>buy/doc/hsp/ipcamera_ex_doc_images_maci64</name>
+      <componentFileName>buy/doc/hsp/ipcamera_ex_doc_images_maci64_1701453258.zip</componentFileName>
+      <contentType>maci64</contentType>
+      <demo>0</demo>
+      <doc>1</doc>
+      <doc_build>1</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <size>718749</size>
+      <uncompressedBytes>718238</uncompressedBytes>
+      <version>1701453258</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>CISCO</licenseAgreementType>
+  <platform>maci64</platform>
+  <productBaseCode>ML_IP_CAMERAS</productBaseCode>
+  <productName>MATLAB Support Package for IP Cameras</productName>
+  <productNumber>2127</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

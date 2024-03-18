@@ -1,0 +1,35 @@
+## Specify support packages you want to install
+
+## Install Computer Vision Toolbox Model for YOLO v2 Object Detection
+product.YOLOV2
+
+## Install Deep Learning Toolbox Converter for TensorFlow models
+product.KERASIMPORTER
+
+## Install Deep Learning Toolbox Interface for TensorFlow Lite
+product.DL_TENSORFLOW_LITE
+
+## Install GPU Coder Interface for Deep Learning Libraries
+product.GPU_DEEPLEARNING_LIB
+
+## Install Image Processing Toolbox Image Data
+product.IMAGEDATA
+
+## Install MATLAB Coder Interface for Deep Learning Libraries
+product.ML_DEEPLEARNING_LIB
+
+## Install MATLAB Coder Support Package for NVIDIA Jetson and NVIDIA DRIVE Platforms
+product.NVIDIA
+
+## Install MATLAB Support Package for Arduino Hardware
+product.ML_ARDUINO
+
+## Install MATLAB Support Package for IP Cameras
+product.ML_IP_CAMERAS
+
+## Install MATLAB Support Package for Raspberry Pi Hardware
+product.RASPPIIO
+
+## Install MATLAB Support Package for USB Webcams
+product.USBWEBCAM
+
