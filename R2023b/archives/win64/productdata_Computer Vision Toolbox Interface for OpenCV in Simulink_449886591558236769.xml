@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/simulink/opencv_simulink_win64</name>
+      <componentFileName>softwaresupportpkgs/simulink/opencv_simulink_win64_1691049278.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>190386</size>
+      <uncompressedBytes>771072</uncompressedBytes>
+      <version>1691049278</version>
+    </component>
+    <component>
+      <name>opencvtype_plugin_win64</name>
+      <componentFileName>opencvtype_plugin_win64_1692887952.zip</componentFileName>
+      <contentType>win64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <size>133704</size>
+      <uncompressedBytes>424879</uncompressedBytes>
+      <version>1692887952</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>SM_OPENCV</productBaseCode>
+  <productName>Computer Vision Toolbox Interface for OpenCV in Simulink</productName>
+  <productNumber>2223</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

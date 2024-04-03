@@ -1,7 +1,19 @@
 ## Specify support packages you want to install
 
+## Install Computer Vision Toolbox Interface for OpenCV in MATLAB
+product.CVST_OPENCV_INTERFACE
+
+## Install Computer Vision Toolbox Interface for OpenCV in Simulink
+product.SM_OPENCV
+
 ## Install Computer Vision Toolbox Model for YOLO v2 Object Detection
 product.YOLOV2
+
+## Install Computer Vision Toolbox Model for YOLO v3 Object Detection
+product.YOLOV3
+
+## Install Computer Vision Toolbox Model for YOLO v4 Object Detection
+product.YOLOV4
 
 ## Install Deep Learning Toolbox Converter for TensorFlow models
 product.KERASIMPORTER
@@ -32,4 +44,7 @@ product.RASPPIIO
 
 ## Install MATLAB Support Package for USB Webcams
 product.USBWEBCAM
+
+## Install ROS Toolbox Support Package for TurtleBot-Based Robots
+product.RO_TURTLEBOT
 

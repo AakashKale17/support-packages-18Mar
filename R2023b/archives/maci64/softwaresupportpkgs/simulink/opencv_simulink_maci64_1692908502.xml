@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>softwaresupportpkgs/simulink/opencv_simulink</componentBaseName>
+    <componentFileName>softwaresupportpkgs/simulink/opencv_simulink_maci64_1692908502.zip</componentFileName>
+    <componentName>softwaresupportpkgs/simulink/opencv_simulink_maci64</componentName>
+    <componentVersion>1692908502</componentVersion>
+    <contentType>maci64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2023b</releaseFamily>
+    <size>122615</size>
+    <type />
+    <uncompressedBytes>476736</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <productBaseCode>RR</productBaseCode>
+      <productName>ROS Toolbox</productName>
+      <productNumber>175</productNumber>
+      <productVersion>23.2</productVersion>
+      <releaseDescription>R2023b</releaseDescription>
+      <releaseFamily>R2023b</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <componentFileName>hardwaresupportpkgs/licenses/asla_license_common_1690923756.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>5351</size>
+      <uncompressedBytes>14057</uncompressedBytes>
+      <version>1690923756</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/ros/turtlebotrobot_common</name>
+      <componentFileName>hardwaresupportpkgs/ros/turtlebotrobot_common_1690978954.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>19415</size>
+      <uncompressedBytes>65406</uncompressedBytes>
+      <version>1690978954</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/ros/turtlebotrobot_resources_common</name>
+      <componentFileName>hardwaresupportpkgs/ros/turtlebotrobot_resources_common_1690923767.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>1173</size>
+      <uncompressedBytes>1735</uncompressedBytes>
+      <version>1690923767</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maca64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>RO_TURTLEBOT</productBaseCode>
+  <productName>ROS Toolbox Support Package for TurtleBot-Based Robots</productName>
+  <productNumber>2143</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+  <requiredProducts />
+</productData>

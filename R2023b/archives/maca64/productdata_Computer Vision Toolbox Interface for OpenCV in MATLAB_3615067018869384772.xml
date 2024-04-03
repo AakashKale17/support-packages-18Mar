@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/vision/opencv_maca64</name>
+      <componentFileName>softwaresupportpkgs/vision/opencv_maca64_1691017034.zip</componentFileName>
+      <contentType>maca64</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maca64</platform>
+      </platformList>
+      <size>64442109</size>
+      <uncompressedBytes>76787266</uncompressedBytes>
+      <version>1691017034</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maca64</platform>
+  <productBaseCode>CVST_OPENCV_INTERFACE</productBaseCode>
+  <productName>Computer Vision Toolbox Interface for OpenCV in MATLAB</productName>
+  <productNumber>2099</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>
